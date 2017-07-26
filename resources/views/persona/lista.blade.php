@@ -30,7 +30,6 @@
             <th>codigo</th>
             <th>Nombre</th>
             <th>Distrito</th>
-            <th>Distrito</th>
             <th>Apellido Paterno</th>
             <th>Apellido Materno</th>
             <th>DNI</th>
